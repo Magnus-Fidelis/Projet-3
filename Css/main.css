@@ -317,7 +317,6 @@ table {
   padding-bottom: 5%;
   margin-left: 11%;
   margin-right: 11%;
-  height: 100%;
 }
 .test .couleur_carte1--1 {
   color: #3d1319;
@@ -742,6 +741,7 @@ table {
   height: 90.74vh;
   text-decoration: none;
   color: inherit;
+  box-shadow: 1px 1px 20px #8a797933;
 }
 .organisation_menu a .couleur_menu1 {
   background-color: #FCDFDB;
@@ -902,7 +902,7 @@ table {
   .test {
     position: relative;
     overflow: scroll;
-    height: 150%;
+    margin-bottom: 15%;
   }
 
   ul li p {
@@ -929,7 +929,6 @@ table {
     position: relative;
     font-size: 100%;
     overflow: scroll;
-    height: 150%;
   }
 
   .test {
