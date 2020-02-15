@@ -742,6 +742,7 @@ table {
   text-decoration: none;
   color: inherit;
   box-shadow: 1px 1px 20px #8a797933;
+  text-align: center;
 }
 .organisation_menu a .couleur_menu1 {
   background-color: #FCDFDB;
