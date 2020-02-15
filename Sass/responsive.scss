@@ -1,0 +1,64 @@
+@media (max-device-width: 576px)
+{
+    body{
+        font-size: 100%;
+    }
+    .titre_carte
+    {
+        margin-top: 25%;
+    }
+
+    .test {
+    position: relative;
+    overflow: scroll;
+    height: 150%;
+    }
+
+    ul{
+        li{
+            p{
+                margin-left: 5%;
+            }
+        }
+    }
+    
+    .organisation_menu{
+    
+    
+    margin-top: 30%;
+    
+        a{
+            margin: 0;
+            height: 27vh;
+            width: 45%;
+            margin-left: 5%;
+            margin-bottom: 10%;
+        }
+    }
+}
+
+
+@media (max-width: 1024px)
+{
+    .titre_carte
+    {
+        margin-top: 25%;
+    }
+
+    .test {
+    position: relative;
+font-size: 100%;
+overflow: scroll;
+height: 150%;
+    }
+
+
+.test
+{
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%
+}
+
+
+}
